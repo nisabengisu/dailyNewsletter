@@ -1,0 +1,3 @@
+[submodule "Front-end"]
+    path = Front-end
+    url = https://github.com/nisabengisu/dailyNewsletter/Front-end.git
